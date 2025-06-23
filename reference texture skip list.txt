@@ -1,0 +1,15 @@
+bamboo_stalk.png
+campfire_log_lit.png
+debug.png
+debug2.png
+frosted_ice_1.png
+frosted_ice_2.png
+frosted_ice_3.png
+hopper_outside.png
+lectern_front.png
+lectern_sides.png
+soul_campfire_log_lit.png
+suspicious_sand_1.png
+suspicious_sand_2.png
+suspicious_sand_3.png
+water_overlay.png
