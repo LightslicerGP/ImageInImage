@@ -1,4 +1,4 @@
-# ImageInImage
+# Image In Image
 
 Python Script to replace each pixel in an image with an image that has the average color closest to that pixel
 
