@@ -1,6 +1,6 @@
 # Image In Image
 
-Python Script to replace each pixel in an image with an image that has the average color closest to that pixel
+A Python Script to replace each pixel in an image with an image that has the average color closest to that pixel
 
 This is used to make the BlocksInBlocks Renewed texture pack
 

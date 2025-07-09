@@ -1,13 +1,16 @@
 realms
 atlases
 blockstates
+equipment
 font
+items
 lang
 models
 particles
 post_effect
 shaders
 texts
+waypoint_style
 colormap
 effect
 font
